@@ -19,9 +19,7 @@ npm start
 ## Screenshots
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/88866368/195207568-54b1b060-5e66-499a-82ee-ac2722bda2e7.png" width="48%"/>
-</div>
-<div align="center">
-  <img align="left" src="https://user-images.githubusercontent.com/88866368/195207590-8d134415-a6d3-49cb-9aad-6b33dbd7f50a.png" width="48%"/>
-  <img align="right" src="https://user-images.githubusercontent.com/88866368/195207605-856a4974-392f-48ec-b102-53e645c6e734.png" width="48%"/>
+  <img src="https://user-images.githubusercontent.com/88866368/195207568-54b1b060-5e66-499a-82ee-ac2722bda2e7.png" width="60%"/>
+  <img src="https://user-images.githubusercontent.com/88866368/195207590-8d134415-a6d3-49cb-9aad-6b33dbd7f50a.png" width="60%"/>
+  <img src="https://user-images.githubusercontent.com/88866368/195207605-856a4974-392f-48ec-b102-53e645c6e734.png" width="60%"/>
 </div>
